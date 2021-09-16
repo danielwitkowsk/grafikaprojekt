@@ -1,0 +1,28 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 2
+
+newmtl Material.001
+Ns 225.000000
+Ka 0.933333 0.933333 0.933333
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.050000
+d 1.000000
+illum 1
+map_Bump /home/jozek/Downloads/Downloads/LeafSet013_1K-PNG/LeafSet013_1K_NormalDX.png
+map_Kd /home/jozek/Downloads/Downloads/LeafSet013_1K-PNG/LeafSet013_1K_Color.png
+map_Ns /home/jozek/Downloads/Downloads/LeafSet013_1K-PNG/LeafSet013_1K_Roughness.png
+
+newmtl Material.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump /home/jozek/Downloads/Downloads/Bark001_1K-PNG/Bark001_1K_NormalDX.png
+map_Kd /home/jozek/Downloads/Downloads/Bark001_1K-PNG/Bark001_1K_Color.png
+map_Ns /home/jozek/Downloads/Downloads/Bark001_1K-PNG/Bark001_1K_Roughness.png
